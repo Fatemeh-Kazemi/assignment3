@@ -1,17 +1,5 @@
 # assignment3
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="description" content="video and audio website">
-    <meta name="keywords" content="video, audio, iframe">
-    <meta name="author" content="Fatemeh Kazemi">
-    <title>Assignment 3</title>
-    <link rel="icon" type="image/x-icon" href="images/favicon.svg">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
     <div class="container">
         <table border="2" id="header">
             <tr>
@@ -91,5 +79,3 @@
             <p>All rights reserved &copy; | 2022</p>
         </footer>
     </div>
-</body>
-</html>
